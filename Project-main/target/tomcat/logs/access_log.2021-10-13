@@ -1,0 +1,7 @@
+10.40.0.2 - - [13/Oct/2021:04:43:45 +0000] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+10.40.0.2 - - [13/Oct/2021:04:43:53 +0000] "GET /rupam/login.jsp HTTP/1.1" 200 2022 http-bio-8080-exec-2 625
+10.40.0.2 - - [13/Oct/2021:04:43:57 +0000] "GET /rupam/signup.jsp HTTP/1.1" 200 1945 http-bio-8080-exec-3 56
+10.40.0.2 - - [13/Oct/2021:04:45:04 +0000] "GET /rupam/signup?useremail=projectdummy074%40gmail.com&userpwd1=abcd&userpwd=abcd HTTP/1.1" 200 - http-bio-8080-exec-5 1985
+10.40.0.2 - - [13/Oct/2021:04:45:10 +0000] "GET /rupam/signup?useremail=projectdummy074%40gmail.com&userpwd1=abcd&userpwd=abcd HTTP/1.1" 200 - http-bio-8080-exec-6 1248
+10.40.0.2 - - [13/Oct/2021:04:46:26 +0000] "GET /rupam/signup?useremail=projectdummy074%40gmail.com&userpwd1=abcd&userpwd=abcd HTTP/1.1" 200 - http-bio-8080-exec-8 1203
+10.40.0.2 - - [13/Oct/2021:04:48:49 +0000] "GET /rupam/signup?useremail=projectdummy074%40gmail.com&userpwd1=abcd&userpwd=abcd HTTP/1.1" 200 - http-bio-8080-exec-10 1282
